@@ -1,0 +1,21 @@
+# Django
+asgiref==3.3.1
+django==3.1.7
+pytz==2021.1
+sqlparse==0.4.1
+
+# Python Decouple
+python-decouple==3.4
+
+# DJ Database Url
+dj-database-url==0.5.0
+
+# Dj Static
+dj-static==0.0.6
+static3==0.7.0
+
+#Heroku
+gunicorn==20.0.4
+
+# Postgres
+psycopg2-binary==2.8.6
