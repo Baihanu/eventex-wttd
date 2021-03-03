@@ -1,3 +1,9 @@
 SECRET_KEY=defina sua chave
 DEBUG=True
 ALLOWED_HOSTS=127.0.0.1
+EMAIL_HOST=smtp.gmail.com
+EMAIL_PORT=465
+EMAIL_USE_TLS=False
+EMAIL_USE_SSL=True
+EMAIL_HOST_USER=seu email
+EMAIL_HOST_PASSWORD=sua senha
